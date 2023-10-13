@@ -11,20 +11,17 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArdaTheCod](https://github.com/ArdaTheCod)
 
-- 📝 I regularly write articles on [I Don't have one :(](I Don't have one :()
+- 📝 I regularly write articles on [I don't have one :/](I don't have one :/)
 
-- 💬 Ask me about **Me or smt**
+- 💬 Ask me about **Me or something**
 
 - 📫 How to reach me **ardautku.tukenmez@kozmos.k12.tr**
-
-- 📄 Know about my experiences [I Don't have one :/](I Don't have one :/)
 
 - ⚡ Fun fact **comedian, wants have foreign friend.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/Arda Utku Tükenmez](https://www.linkedin.com/in/arda-utku-t%C3%BCkenmez-9ab1a4295/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arda utku tükenmez" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.arda_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.arda_24" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arda-utku-t%c3%bckenmez-9ab1a4295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arda-utku-t%c3%bckenmez-9ab1a4295/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
