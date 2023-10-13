@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arda-utku-t%C3%BCkenmez-9ab1a4295/(https://www.linkedin.com/in/arda-utku-t%C3%BCkenmez-9ab1a4295/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arda utku tükenmez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Arda Utku Tükenmez(https://www.linkedin.com/in/arda-utku-t%C3%BCkenmez-9ab1a4295/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arda utku tükenmez" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.arda_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.arda_24" height="30" width="40" /></a>
 </p>
 
