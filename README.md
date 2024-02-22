@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArdaTheCod](https://github.com/ArdaTheCod)
 
-- 📝 I regularly write articles on [I don't have one :/](I don't have one :/)
+- 📝 I regularly write articles on [I don't have one :/]
 
 - 💬 Ask me about **Me or something**
 
