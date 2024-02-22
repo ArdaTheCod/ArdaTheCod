@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Project:Escape**
 
-- 🌱 I’m currently learning **C++ C# HTMLcss**
-
-- 👯 I’m looking to collaborate on **Rockstar Games :D**
+- 🌱 I’m currently learning **C++, C#, HTMLcss**
 
 - 🤝 I’m looking for help with **Made Websites and Great Game Projects**
 
