@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Me or something**
 
-- 📫 How to reach me **ardautku.tukenmez@kozmos.k12.tr**
+- 📫 How to reach me **ardau367@gmail.com**
 
 - ⚡ Fun fact **comedian, wants have foreign friend.**
 
