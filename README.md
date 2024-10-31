@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C++, C#, HTMLcss**
 
-- 🤝 I’m looking for help with **Made Websites and Great Game Projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ArdaTheCod](https://github.com/ArdaTheCod)
 
 - 📝 I regularly write articles on [I don't have one :/]
