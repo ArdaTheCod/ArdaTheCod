@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
 <h3 align="center">A personal coder/story writer in Personal Projects</h3>
 
-- 🔭 I’m currently working on **Project:Escape**
+- 🔭 I’m currently working on **MY SPECIAL AI**
 
-- 🌱 I’m currently learning **C++, C#, HTMLcss**
+- 🌱 I’m currently learning **C++, C#, HTMLcss, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArdaTheCod](https://github.com/ArdaTheCod)
 
